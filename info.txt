@@ -1,0 +1,9 @@
+The project offes us cost-effective flight options.
+
+We can maintain a record of our preferred travel destinations and the cheapest flight prices in a Google Spreadsheet.
+
+The code searches for budget-friendly flight rates in the coming next 6 months and send an SMS notification if it finds a rate lower than what's listed in the Google Spreadsheet.
+
+Initially, the code populates the IATA codes for each city and then proceeds to check flight prices.
+
+When it finds rate lower than what's listed in the Google Spreadsheet, then it sends an SMS alert.
