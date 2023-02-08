@@ -1,4 +1,4 @@
-The project offes us cost-effective flight options.
+The project offers us cost-effective flight options.
 
 We can maintain a record of our preferred travel destinations and the cheapest flight prices in a Google Spreadsheet.
 
